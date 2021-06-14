@@ -1,5 +1,5 @@
 # test-analytics-isss609
-ISSS609 Text Analytics Team Project
+ISSS609 Text Analytics Team Project (Term 3 2020) @Singapore Management University
 
 This is a project folder for "Sentiment & Topic Analysis in Aviation Industry During Covid-19".
 
